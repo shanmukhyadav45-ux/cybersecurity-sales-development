@@ -1,0 +1,21 @@
+{
+  "type": "Automated software validation with fictional data; not candidate sales activity",
+  "checks": [
+    {
+      "command": "python crm.py list",
+      "output": "SIM-01 Sample Finance Business 1 | employee phishing awareness\nSIM-02 Sample Healthcare Business 1 | staff security onboarding\nSIM-03 Sample E-commerce Business 1 | seasonal workforce awareness\nSIM-04 Sample Manufacturing Business 1 | multi-site training consistency\nSIM-05 Sample Telecom Business 1 | suspicious-email reporting\nSIM-06 Sample Finance Business 2 | employee phishing awareness\nSIM-07 Sample Healthcare Business 2 | staff security onboarding\nSIM-08 Sample E-commerce Business 2 | seasonal workforce awareness\nSIM-09 Sample Manufacturing Business 2 | multi-site training consistency\nSIM-10 Sample Telecom Business 2 | suspicious-email reporting\nSIM-11 Sample Finance Business 3 | employee phishing awareness\nSIM-12 Sample Healthcare Business 3 | staff security onboarding\nSIM-13 Sample E-commerce Business 3 | seasonal workforce awareness\nSIM-14 Sample Manufacturing Business 3 | multi-site training consistency\nSIM-15 Sample Telecom Business 3 | suspicious-email reporting\nSIM-16 Sample Finance Business 4 | employee phishing awareness\nSIM-17 Sample Healthcare Business 4 | staff security onboarding\nSIM-18 Sample E-commerce Business 4 | seasonal workforce awareness\nSIM-19 Sample Manufacturing Business 4 | multi-site training consistency\nSIM-20 Sample Telecom Business 4 | suspicious-email reporting\n"
+    },
+    {
+      "command": "python crm.py log SIM-01 --channel email --outcome attempt --note Fictional email exercise",
+      "output": "Saved simulated activity\n"
+    },
+    {
+      "command": "python crm.py log SIM-01 --channel call --outcome discovery --note Fictional BANT role-play; budget unknown",
+      "output": "Saved simulated activity\n"
+    },
+    {
+      "command": "python crm.py report",
+      "output": "SIMULATED ACTIVITY ONLY\nAccounts: 20 Activities: 2\nreply (unique accounts): 0\ndiscovery (unique accounts): 1\nmeeting_booked (unique accounts): 0\nmeeting_held (unique accounts): 0\nsales_accepted (unique accounts): 0\n"
+    }
+  ]
+}

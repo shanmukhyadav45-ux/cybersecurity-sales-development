@@ -20,3 +20,8 @@ BANT means Budget, Authority, Need and Timeline. Unknown is a valid answer; do n
 
 ## Candidate practice
 Rewrite emails in your own words, role-play two discovery calls, inspect the CSV, explain the report and practice with a CRM sandbox. This repository does not establish proficiency in Zoho CRM, Apollo, Lusha, Sales Navigator, Claude or NotebookLM.
+
+## Additional exercises
+- `discovery_and_handoff.md`: account research worksheet, BANT cases, sales handoff and funnel metrics.
+- `practice_guide.md`: candidate walkthrough and interview prompts.
+- `simulation_validation.json`: automated tracker validation using fictional data; not candidate activity.
