@@ -1,0 +1,21 @@
+id,fictional_company,industry,persona,need_hypothesis,budget,authority,confirmed_need,timeline,stage
+SIM-01,Sample Finance Business 1,Finance,IT / Security Manager,employee phishing awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-02,Sample Healthcare Business 1,Healthcare,IT / Security Manager,staff security onboarding,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-03,Sample E-commerce Business 1,E-commerce,IT / Security Manager,seasonal workforce awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-04,Sample Manufacturing Business 1,Manufacturing,IT / Security Manager,multi-site training consistency,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-05,Sample Telecom Business 1,Telecom,IT / Security Manager,suspicious-email reporting,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-06,Sample Finance Business 2,Finance,IT / Security Manager,employee phishing awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-07,Sample Healthcare Business 2,Healthcare,IT / Security Manager,staff security onboarding,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-08,Sample E-commerce Business 2,E-commerce,IT / Security Manager,seasonal workforce awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-09,Sample Manufacturing Business 2,Manufacturing,IT / Security Manager,multi-site training consistency,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-10,Sample Telecom Business 2,Telecom,IT / Security Manager,suspicious-email reporting,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-11,Sample Finance Business 3,Finance,IT / Security Manager,employee phishing awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-12,Sample Healthcare Business 3,Healthcare,IT / Security Manager,staff security onboarding,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-13,Sample E-commerce Business 3,E-commerce,IT / Security Manager,seasonal workforce awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-14,Sample Manufacturing Business 3,Manufacturing,IT / Security Manager,multi-site training consistency,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-15,Sample Telecom Business 3,Telecom,IT / Security Manager,suspicious-email reporting,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-16,Sample Finance Business 4,Finance,IT / Security Manager,employee phishing awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-17,Sample Healthcare Business 4,Healthcare,IT / Security Manager,staff security onboarding,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-18,Sample E-commerce Business 4,E-commerce,IT / Security Manager,seasonal workforce awareness,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-19,Sample Manufacturing Business 4,Manufacturing,IT / Security Manager,multi-site training consistency,Unknown,Unknown,Unknown,Unknown,uncontacted
+SIM-20,Sample Telecom Business 4,Telecom,IT / Security Manager,suspicious-email reporting,Unknown,Unknown,Unknown,Unknown,uncontacted
